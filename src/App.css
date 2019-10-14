@@ -1,0 +1,292 @@
+
+
+
+.navbar-toggler-icon
+{
+  color: white;
+}
+
+
+/*nav bar*/
+.nav-gap-1
+{
+      margin-left: 110px;
+}
+.nav-gap-2
+{
+      margin-left: 300px;
+}
+
+/*navbar-brand*/
+
+.logo
+{
+  height: 30px;
+  width: 30px;
+
+}
+
+.logo-name
+{
+    font-family:comic sans ms;
+    font-weight: 900;
+    color:black;
+
+}
+
+/*nav items*/
+
+.nav-item
+{
+padding-right: 30px;
+
+
+}
+
+.nav-link
+{
+  color: red;
+}
+
+.post
+{
+  border-radius: 19px;
+  border-style: solid;
+  background:-webkit-linear-gradient(top, #feccb1 0%,#f93437 1%,#ea5507 52%,#fb955e 100%);
+  color: white;
+
+}
+
+.notifi{
+  height: 30px;
+width: 72px;
+}
+
+.profile_tiles{
+  height: 30px;
+width: 32px; 
+}
+/*search bar*/
+
+.search
+{
+  border-radius: 20px;
+  width: 270px;
+  height: 40px;
+  background: #f2f2f2;
+}
+
+.searchIcon
+{
+    margin-left: 237px;
+}
+
+/*title_img*/
+.title_img
+{
+  width: 100%;
+}
+
+/*profile_card*/
+
+.profile_card{
+    height: 70%;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.3);
+  position: absolute;
+    top: -50px;
+    right: 10px;
+    width: 250px;
+
+
+}
+
+.dd{
+   position: absolute;
+    bottom: 73%;
+    left: 13%;
+}
+
+.profile_image{
+    width: 82%;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 80%;
+    left: 8%;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.5);
+    border: 5px solid white;
+}
+
+.profile_Name
+{
+     font-size: 40px;
+
+}
+
+.userDetails{
+   position: absolute;
+    top: 23%;
+        left: 24px;
+          line-height: 0.9;
+
+}
+
+.edit_button{
+  border-radius: 15px;
+  padding: 10px;
+}
+/*achive*/
+
+.achive{
+      padding-top: 15%;
+      line-height: 1.5;
+
+}
+
+
+
+
+/*NewsFeed*/
+
+.newsFeed{
+    margin-top: 5%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.3);
+    width: 85%;
+    width: 183%;
+   padding-left: 5%;
+
+
+
+}
+
+
+/*img-circle*/
+.img-circle{
+    border-radius: 50%;
+    width:40px;
+
+}
+.draft{
+      position: relative;
+    left: 80%;
+
+}
+
+
+/*postDetails*/
+.postDetails{
+  padding: 2%;
+  margin-top: 2%;
+}
+/*postImages*/
+.postImages{
+  width: 100%;
+}
+
+.imageGrid {
+  margin: 0px;
+  padding: 0px;
+  position: 
+}
+/*suggestion*/
+.suggestion{
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.3);
+  position: absolute;
+    top: 8.6%;
+    width: 70%;
+    right: 50%;
+    padding: 10px;
+}
+/*follow_button*/
+.follow_button{
+    border-radius: 15px;
+    padding: 5px;
+        background: #fff;
+}
+/*top*/
+
+.top{
+    position: relative;
+    right: 27%;
+
+}
+/*copy*/
+
+.copy{
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.3);
+  position: absolute;
+    top: 51%;
+    width: 71%;
+    right: 49%;
+}
+/*folRev*/
+.folRev{
+      position: relative;
+    bottom: 23px;
+    left: 45px;
+}
+/*iphone*/
+.iphone{
+  width: 30px;
+  height: 30px;
+}
+
+.statshr{
+position: inherit; 
+    width: 179px;
+    position: relative;
+    left: 21px;
+    bottom: 25px;
+  }
+
+    .stats{
+      bottom: 29px;
+    }
+
+
+.reviews{
+  position: relative;
+    bottom: 10px;
+    right: 0px;
+}
+
+.views{
+  position: relative;
+    bottom: 70px;
+    left: 72px;
+}
+
+
+.upvotes{
+  position: absolute;
+    bottom: 80px;
+    left: 156px;
+}
+
+
+.statsRow{
+  position: absolute;
+    right: 17px;
+     bottom: -20px;
+
+}
+
+.lasthr{
+  position: relative;
+    top: 80%;
+}
+
+.lastrow
+{
+ position: absolute;
+bottom: 4%;
+    left: 53px;
+
+}
